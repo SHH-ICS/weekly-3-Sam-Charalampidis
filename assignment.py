@@ -39,4 +39,4 @@ tax = 1.13 * subt - subt
 total = subt + tax
 print("your subtotal is $"+str(subt))
 print("Your tax is " + str(tax))
-print("your total is $"+str(round(total)))
+print("your total is $"+str(total))
